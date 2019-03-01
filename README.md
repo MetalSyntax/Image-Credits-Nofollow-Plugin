@@ -8,7 +8,7 @@ Este codigo es una actualzacion no oficial del complemento Image Credits Nofollo
 
 ## Codigo Fuente
 
-Methods: https://github.com/MetalSyntax/Image-Credits-Nofollow-Plugin/
+Image Credits Nofollow: https://github.com/MetalSyntax/Image-Credits-Nofollow-Plugin/
 
 ## Donaciones
 
