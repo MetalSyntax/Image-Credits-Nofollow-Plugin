@@ -1,14 +1,14 @@
 # Image-Credits-Nofollow-Plugin
 
-Este codigo es una actualización no oficial del complemento Image Credits Nofollow
+Este codigo es una actualización no oficial del complemento Image Credits Nofollow.
 
 > Control de Cambios
-- Se agregaron los campos ID, Autor, Ediror,License en las imgagenes.
-- Nueva manera de mostrar los datos sin Enlace
+- Se agregaron los campos ID, Autor, Ediror,License en las imagenes.
+- Nueva manera de mostrar los datos sin Enlace.
 
 ## Codigo Fuente
 
-Image Credits Nofollow: https://github.com/MetalSyntax/Image-Credits-Nofollow-Plugin/
+Image Credits Nofollow Fork: https://github.com/MetalSyntax/Image-Credits-Nofollow-Plugin/
 
 ## Donaciones
 
